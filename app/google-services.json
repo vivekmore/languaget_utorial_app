@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "781608332530",
+    "firebase_url": "https://chineseapp-c4ff3.firebaseio.com",
+    "project_id": "chineseapp-c4ff3",
+    "storage_bucket": "chineseapp-c4ff3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781608332530:android:191f1ad9c83aed59",
+        "android_client_info": {
+          "package_name": "com.chinesequiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781608332530-f28fqpbqt64krseckgt4opeee0r413nd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chinesequiz",
+            "certificate_hash": "00b52b8713856ccfbbd2b3fca05570084451608b"
+          }
+        },
+        {
+          "client_id": "781608332530-53eb5n9rttdlf7dcs1fna03k0edd6fv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLXHZsjxVlgQt8SY6vGnigGt1us_CMYl0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781608332530-53eb5n9rttdlf7dcs1fna03k0edd6fv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
